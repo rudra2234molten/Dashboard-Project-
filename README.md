@@ -22,16 +22,14 @@
 
 <h1>PROJECT SCREENSHOT'S </h1>
 <h2>HOME PAGE</h2>
-<img width="1365" height="644" alt="Image" src="https://github.com/user-attachments/assets/2dcd55c9-9ad9-41ec-a984-3b99583c37eb" />
-<h2>CREATE ACCOUNT</h2>
-<img width="1337" height="627" alt="Image" src="https://github.com/user-attachments/assets/a38b83c5-c097-471c-acb3-21a5caef3e5d" />
-<h2>PIN GENERATION</h2>
-<img width="1357" height="644" alt="Image" src="https://github.com/user-attachments/assets/15f70442-c66e-4c40-99e6-e59999cb1abf" />
-<h2>BALANCE CHECK</h2>
-<img width="1337" height="621" alt="Image" src="https://github.com/user-attachments/assets/43ef61b1-8a05-43ed-ae30-9e2864c59add" />
-<h2>WITHDRAW MONEY</h2>
-<img width="1337" height="617" alt="Image" src="https://github.com/user-attachments/assets/7d749f54-c658-4bd4-a92a-68578cf637ae" />
-<h2>DEPOSIT MONEY</h2>
-<img width="1365" height="640" alt="Image" src="https://github.com/user-attachments/assets/ed976d15-5f6a-412f-b00d-a83928f35eff" />
-<h2>TRANSFER MONEY</h2>
-<img width="1348" height="627" alt="Image" src="https://github.com/user-attachments/assets/557cf868-fcfa-4735-9450-3d154a677db4" />
+<img width="1363" height="643" alt="Image" src="https://github.com/user-attachments/assets/65a11e69-c040-45ef-ac84-e9e48250f262" />
+<h2>COURSE PAGE</h2>
+<img width="1360" height="643" alt="Image" src="https://github.com/user-attachments/assets/178a9405-efb7-4230-8b01-04cd7794cae0" />
+<h2>CATEGORIES PAGE</h2>
+<img width="1360" height="641" alt="Image" src="https://github.com/user-attachments/assets/6c52c86e-fa6a-490e-9475-5aa1232dd28e" />
+<h2>EPISODES PAGE</h2>
+<img width="1364" height="642" alt="Image" src="https://github.com/user-attachments/assets/b2279df4-67d7-4ae8-89fa-a00bc2202e12" />
+<h2>BOOKS PAGE</h2>
+<img width="1365" height="641" alt="Image" src="https://github.com/user-attachments/assets/7c86aec9-84e4-471c-aa9a-86d866f352b6" />
+<h2>ARTICLES PAGE</h2>
+<img width="1365" height="642" alt="Image" src="https://github.com/user-attachments/assets/c18a91ec-8c6c-47c0-886b-70b2cfdc7c9e" />
